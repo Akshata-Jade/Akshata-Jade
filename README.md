@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AKSHATA JADE</h1>
+<h1 align="center">Hi 👋, I'm Akshata Jade</h1>
 <h3 align="center">Aspiring Data Analyt from MIT WPU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshata-Jade&label=Profile%20views&color=0e75b6&style=flat" alt="akshata-jade" /> </p>
