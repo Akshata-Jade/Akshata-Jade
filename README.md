@@ -79,7 +79,7 @@ English (Fluent) • Hindi (Native) • Marathi (Native)
 ### 📚 Education
 **MIT World Peace University, Pune**  
 Bachelor of Science — Applied Statistics & Data Analytics  
-**CGPA:** 8.31 / 10  
+**CGPA:** 8.54 / 10  
 
 **Relevant Coursework:**  
 Probability & Statistics • Machine Learning • Statistical Computing •  
