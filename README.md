@@ -72,7 +72,7 @@ English (Fluent) • Hindi (Native) • Marathi (Native)
 ---
 
 ### 🏛️ Experience
-**Active Member — Numerates Club**  
+**Member — Numerates Club**  
 *Mathematics Department, MIT World Peace University*  
 **Oct 2025 – July 2026**  
 - Collaborated with cross-functional teams on educational content and technical workshops  
