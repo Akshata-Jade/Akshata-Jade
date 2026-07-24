@@ -64,8 +64,10 @@ English (Fluent) • Hindi (Native) • Marathi (Native)
 - **Tata Consultancy Services – Data Visualisation Job Simulation (2026)**  
   - Developed executive-level data visualizations and insights presentations  
 - **Statistics Certification (2026)**
-- **Forage Academy Data Labeling Job Simulation on Forage (2026)**  
-  - classifying customer support messages by intent, sentiment, and PII while reviewing annotations to improve AI data quality and consistency. 
+- **Forage Academy Data Labeling Job Simulation (2026)**  
+  - Classifying customer support messages by intent, sentiment, and PII while reviewing annotations to improve AI data quality and consistency.
+- **Quantium Data Analytics Job Simulation (2026)**  
+  - Customer analytics, trial store analysis, and data-driven commercial recommendations.
 
 ---
 
