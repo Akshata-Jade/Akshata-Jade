@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Akshata Jade  
-🎯 **Data Analyst | MIT-WPU | Python | R | SQL | Tableau**
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=600&color=FFC107&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Akshata+Jade;🎓+Applied+Statistics+%26+Data+Analytics+Student;📊+Excel+%7C+Power+BI+%7C+Python+%7C+SQL;🤖+Machine+Learning+Enthusiast;🚀+Building+Data-Driven+Solutions)](https://git.io/typing-svg)
 ---
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Akshata-Jade&label=Profile%20views&color=0e75b6&style=flat" alt="Akshata-Jade" />
@@ -14,10 +12,10 @@ Currently pursuing a **B.Sc. in Applied Statistics & Data Analytics** at **MIT W
 
 I am passionate about transforming complex datasets into meaningful insights through analysis, modeling, and clear visual storytelling.
 
-📍 **Pune, Maharashtra, India**  
-📫 **Email:** akshatajade27@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/akshata-jade  
-🌐 **GitHub Portfolio:** https://github.com/Akshata-Jade  
+[![Location](https://img.shields.io/badge/Location-Pune,%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Pune,India)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshata%20Jade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Akshata-Jade)
+[![Gmail](https://img.shields.io/badge/Gmail-akshatajade27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatajade27@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Akshata%20Jade-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshata-Jade)  
 
 ---
 
@@ -38,7 +36,13 @@ I am passionate about transforming complex datasets into meaningful insights thr
 ### 🛠️ Skills & Technologies
 
 #### Programming Languages:
-`Python` • `R` • `SQL` • `HTML5` • `CSS3`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" alt="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
+</p>
 
 #### Data Science & ML Libraries:
 `Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn` • `BeautifulSoup`
@@ -58,12 +62,22 @@ English (Fluent) • Hindi (Native) • Marathi (Native)
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akshata-Jade&theme=tokyonight" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/Akshata-Jade?theme=dark&font=Karma&hide=ranking" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshata-Jade&theme=tokyo-night" alt="Activity Graph" />
+</p>
+
+---
+
 ### 🏆 Certifications & Training
 - **Deloitte Australia – Data Analytics Job Simulation (2025)**  
   - Created Tableau dashboards and Excel-based business analysis for client scenarios  
 - **Tata Consultancy Services – Data Visualisation Job Simulation (2026)**  
   - Developed executive-level data visualizations and insights presentations  
-- **Statistics Certification (2026)**
 - **Forage Academy Data Labeling Job Simulation (2026)**  
   - Classifying customer support messages by intent, sentiment, and PII while reviewing annotations to improve AI data quality and consistency.
 - **Quantium Data Analytics Job Simulation (2026)**  
