@@ -74,15 +74,17 @@ English (Fluent) • Hindi (Native) • Marathi (Native)
 ---
 
 ### 🏆 Certifications & Training
-- **Deloitte Australia – Data Analytics Job Simulation (2025)**  
+- **Deloitte Australia – Data Analytics Job Simulation (Oct 2025)**  
   - Created Tableau dashboards and Excel-based business analysis for client scenarios  
 - **Tata Consultancy Services – Data Visualisation Job Simulation (2026)**  
   - Developed executive-level data visualizations and insights presentations  
-- **Forage Academy Data Labeling Job Simulation (2026)**  
+- **Forage Academy Data Labeling Job Simulation (July 2026)**  
   - Classifying customer support messages by intent, sentiment, and PII while reviewing annotations to improve AI data quality and consistency.
-- **Quantium Data Analytics Job Simulation (2026)**  
+- **Quantium Data Analytics Job Simulation (July 2026)**  
   - Customer analytics, trial store analysis, and data-driven commercial recommendations.
-
+- **Tata's GenAI Powered Data Analytics Job Simulation (Aug 2026)**
+  - Applying GenAI for EDA, delinquency risk modeling, and designing an ethical AI-driven collections strategy.
+  
 ---
 
 ### 🏛️ Experience
